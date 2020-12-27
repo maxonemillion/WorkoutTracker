@@ -13,9 +13,11 @@ This fitness tracker app uses a Mongo database with a Mongoose schema and Expres
 * MongoDB Atlas
 
 ### RUN:
-[Here](https://radiant-fortress-30298.herokuapp.com/) is the link to the deployed app.  [Here](https://github.com/maxonemillion/WorkoutTracker "Link to github repository") is the github repository for this project.
+[Here](https://radiant-fortress-30298.herokuapp.com/) is the link to the deployed app. 
 
 ### SCREENSHOT:
+<img width="1010" alt="Screen Shot 2020-12-26 at 11 37 25 AM" src="https://user-images.githubusercontent.com/67847591/103179639-e3b0fa80-4842-11eb-9b97-a46284a5f2fb.png">
+<img width="1028" alt="Screen Shot 2020-12-26 at 11 37 34 AM" src="https://user-images.githubusercontent.com/67847591/103179636-e27fcd80-4842-11eb-929c-14a108f4f2b9.png">
 
 ### CONTACT:
 * max.daniel@utah.edu
